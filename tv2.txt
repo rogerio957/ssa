@@ -1,0 +1,179 @@
+
+
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id=https:REDE BRASIL"		
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1435283609.m3u8
+#EXTINF:-2 TV NOVA PLAY	
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+#EXTINF:-3 classicos
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w186200016.m3u8
+#EXTINF:-4 TV CHANNEL NETWORK	
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
+#EXTINF:-5  WEB TV ÁGUA BOA
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w292458495.m3u8
+#EXTINF:-6 CLASSIQUE WESTERN TV
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:-7 TV CARIOCA NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1536715481.m3u8
+#EXTINF:-8 TV J.SID	
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+#EXTINF:-9 GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
+#EXTINF:-10 CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:-11 TELA VIVA TV
+https://srv6.zcast.com.br/telavivatv/telavivatv/chunklist_w1098269168.m3u8
+#EXTINF:-12 TV ARACATI
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-13 VILA TV	
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
+#EXTINF:-14 IMPERIAL TV
+https://alanza.iptv2022.com/IMPERIAL_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-15 TV JORNAL DO NORDESTE	
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
+#EXTINF:-16 REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1748841458.m3u8
+#EXTINF:-17 TV MAIS BRASIL	
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1682238439.m3u8
+#EXTINF:-18 SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w995009670.m3u
+#EXTINF:-19 TV POMBAL	
+https://stmv1.srvif.com/tvpombal/tvpombal/chunklist_w652158308.m3u8
+#EXTINF:-20 TV CEI	
+https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8
+#EXTINF:-21 GLN		
+https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist_w1099290131.m3u8
+#EXTINF:-22 CLC (Cine Life Classic)
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+#EXTINF:-23 TV OSÓRIO NEWS	
+https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w223093512.m3u8
+#EXTINF:-24 TV NAZA		
+https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8	
+#EXTINF:-25 CTV PB		
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w2073358337.m3u8
+#EXTINF:-26 TV JAPI	
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1609421454.m3u8
+#EXTINF:-27 CHANNEL 1	
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8	
+#EXTINF:-28 TV MIX		
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
+#EXTINF:-29 BR SUPER TV 		
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w700286621.m3
+#EXTINF:-30 TV SERIES CHIPS	
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
+#EXTINF:-31 TV CLUBE WEB	
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w365439755.m3u8
+#EXTINF:-32 INTERIOR TV RJ		
+https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w1930307077.m3u8
+#EXTINF:-33 TV SERIES JORNADA NAS ESTRELAS		
+https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8
+#EXTINF:-34 TV ARATU		
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+#EXTINF:-35 BLITS TV	
+https://video01.logicahost.com.br/blitstv/blitstv/chunklist_w1682531966.m3u8
+#EXTINF:-36 REDE QDM	
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2073176681.m3u8
+#EXTINF:-37 TV GOSPEL LOUVORES		
+https://srv4.zcast.com.br/tvgospel/tvgospel/chunklist_w1836896882.m3u8
+#EXTINF:-38 TV DIGITAL BIRIGUI		
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1396741882.m3u8	
+#EXTINF:-39 TV SERIES AS PANTERAS		
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
+#EXTINF:-40 TV SÉRIES - GUERRA, SOMBRA E ÁGUA FRESCA	
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
+#EXTINF:-41 DEMAIS TV	
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w610513066.m3u8
+#EXTINF:-42 SIC PORTUGAL		
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8	
+#EXTINF:-43 TV SÉRIES - A MULHER BIÔNICA
+https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
+#EXTINF:-44 TCM 10	
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-45 TV ZIMBO	
+https://playback2.akamaized.net/streams/29819666_9254936_lsiuhau9q0z2u75dqrc_1/exp=1639074960~acl=%2f*~data=hdntl~hmac=a061479de7e639a83ea74c4c3575f0ebdcc9734ba1f682927a394f7c4fb8dc18/media/29819666_9254936_lsiuhau9q0z2u75dqrc_1@2128000p.m3u8?dw=14400&ts=1638986400
+#EXTINF:-46  rio Douro		
+https://frn.rtsp.me/_hr2Y_0RaE7CwqHEPc5_Gg/1639079880/hls/bYTDANDA.m3u8?ip=188.37.216.66	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
